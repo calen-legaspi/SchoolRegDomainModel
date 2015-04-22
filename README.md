@@ -47,7 +47,6 @@
  * A section is defined as a combination of a teacher, a subject, a schedule, a section number and a term.
  * Section numbers are manually assigned, but system must check that they are unique for the term.
  * Section numbers may duplicate as long as terms are different.
- * Each subject is worth three (3) units.
  * A teacher is identified by his/her Faculty ID.
  * A teacher cannot teach two sections with the same schedule.
  * No two sections can have the same room & schedule.
