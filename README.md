@@ -31,6 +31,8 @@
  
 # New Requirements
 
+You may disregard the above UML diagram for new requirements.
+
 ## Section Has Room, Room Has Maximum Capacity
 
 * Section has a room attribute.
